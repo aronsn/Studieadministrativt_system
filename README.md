@@ -1,4 +1,4 @@
-# Studieadministrativt system
+# Studieadministrativt system 12.10.2018
 **Studieadministrativt system med filhåndtering**
 
 Det skal lages et program hvor det registreres opplysninger om studenter, hvilket studieprogram de går på og hvilke emner de har avlagt eksamen i med oppnådd karakter. Opplysningene skal lagres i følgende filer med følgende innhold, i programmet skal filene lagres i samme katalog som programmet:
